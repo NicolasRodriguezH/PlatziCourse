@@ -1,0 +1,16 @@
+{
+    "item": {
+        "displayname": "ShortSword",
+        "item": 0,
+        "icon": {
+            "instanceID": 0
+        },
+        "damage": 0.0,
+        "restoreAmount": 0,
+        "rand": {
+            "min": 0,
+            "max": 0,
+            "value": false
+        }
+    }
+}
